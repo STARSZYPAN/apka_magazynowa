@@ -3,11 +3,11 @@ user_choice = -1
 
 names=[]
 
-quantitys=[]
+#quantitys=[]
 
-units=[]
+#units=[]
 
-prices=[]
+#prices=[]
 
 
 
